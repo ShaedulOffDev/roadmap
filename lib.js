@@ -161,6 +161,10 @@ var data = [
     // ! Lesson 6
     [
         {
+            summary: '5-darsda o\'tilganlar bo\'yicha test!',
+            data: '<h2><a target="_blank" class="text-decoration-none" href="https://test-lesson5.netlify.app">test-lesson5.netlify.app</a></h2>'
+        },
+        {
           summary: 'Class',
           data: 'clasning html va css dagi o\'rni!'  
         },
