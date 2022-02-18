@@ -1,0 +1,21 @@
+body{
+    background: #eee;
+}
+.box{
+    width: 90%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 1px #22222222;
+    background: #fff;  
+    margin-bottom: 20px; 
+}
+.box > details {
+    width: 80%;
+    box-shadow: 2px 2px 20px 2px #33333330;
+}
+abbr{
+    text-decoration: none !important;
+}
+.nav a:hover{
+    color: #222 !important;
+    background: #fff !important;
+}
