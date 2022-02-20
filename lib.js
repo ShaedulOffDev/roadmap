@@ -184,5 +184,40 @@ var data = [
             summary: 'Homework',
             data: '<a href="./homework6.html" target="_blank"><button class="btn btn-warning text-light">Home Work</button></a>'  
         },
+    ],
+    // ! Lesson 7
+    [
+        {
+            summary: '4-darsni takrorlash!',
+            data: 'Let\'s go!'
+        },
+        {
+            summary: 'CSS da o\'lchov birliklari',
+            data: 'vh, vw, px, %, deg, em, rem, pt, pc, vmax, vmin, ex, in, ch, cm, mm'
+        },
+        {
+            summary: 'box-shadow',
+            data: '<p>box-shadow: x y shadow weidth color</p><p>box-shadow: 5px 5px 10px 2px blue;</p>'
+        },
+        {
+            summary: 'transform va transition',
+            data: '<p>scale</p><p>translate</p><p>rotate</p><p>skew</p>'
+        },
+        {
+            summary: 'Cursor',
+            data: 'zoom, pointer ....'
+        },
+        {
+            summary: 'Fonts',
+            data: '<p>font-family</p><p>font-style</p><p>font-weight</p><p>font-variant</p><p></p><p>font-size</p>'
+        },
+        {
+            summary: 'Font shothand',
+            data: 'font: font-style font-variant font-weight font-size/line-height font-family; <p>font: italic small-caps bold 12px/30px Georgia, serif;</p>'
+        },
+        {
+            summary: 'Homework',
+            data: '<a href="./homework7.html" target="_blank"><button class="btn btn-warning text-light">Home Work</button></a>'  
+        }, 
     ]
 ]
