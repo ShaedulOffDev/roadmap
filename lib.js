@@ -214,10 +214,6 @@ var data = [
         {
             summary: 'Font shothand',
             data: 'font: font-style font-variant font-weight font-size/line-height font-family; <p>font: italic small-caps bold 12px/30px Georgia, serif;</p>'
-        },
-        {
-            summary: 'Homework',
-            data: '<a href="./homework7.html" target="_blank"><button class="btn btn-warning text-light">Home Work</button></a>'  
-        }, 
+        }
     ]
 ]
