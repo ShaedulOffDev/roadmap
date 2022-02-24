@@ -238,10 +238,6 @@ var data = [
             data: "So'z va gaplar masofasi."
         },
         {
-            summary: "position",
-            data: ""
-        },
-        {
             summary: 'Homework',
             data: '<a href="./homework9.html" target="_blank"><button class="btn btn-primary text-light">Home Work</button></a>'  
         }
