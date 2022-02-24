@@ -223,5 +223,27 @@ var data = [
         {
             summary: 'scroll-behaivor',   
         }
-    ]
+    ],
+    [
+        {
+            summary: "position",
+            data: "<p>absolute</p><p>fixed</p><p>releative</p>"
+        },
+        {
+            summary: "opacity",
+            data: "opacity - 0, 0.1, 0.2.....1"
+        },
+        {
+            summary: "word va letter spacing",
+            data: "So'z va gaplar masofasi."
+        },
+        {
+            summary: "position",
+            data: ""
+        },
+        {
+            summary: 'Homework',
+            data: '<a href="./homework9.html" target="_blank"><button class="btn btn-primary text-light">Home Work</button></a>'  
+        }
+    ],
 ]
