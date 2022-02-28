@@ -242,4 +242,30 @@ var data = [
             data: '<a href="./homework9.html" target="_blank"><button class="btn btn-primary text-light">Home Work</button></a>'  
         }
     ],
+    [
+        {
+            summary: 'VS code da oson kod yozish',
+            data: '<br>'
+        },
+        {
+            summary: 'Shop Card Yaratish',
+            data: '<br>'
+        },
+        {
+            summary: '<sub>sub</sub> va <sup>sup</sup>',
+            data: ''
+        },
+        {
+            summary: 'calc()',
+            data: ''
+        },
+        {
+            summary: 'class validation va child',
+            data: '<p>Child</p><ul><li>:first-child</li><li>last-child</li><li>nth:child</li><li>odd</li><li>even</li></ul>'
+        },
+        {
+            summary: 'Homework 10',
+            data: '<a class="link text-decoration-none"><button class="btn btn-danger">HomeWork 10</button></a>'
+        }
+    ],
 ]
