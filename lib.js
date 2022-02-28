@@ -265,7 +265,7 @@ var data = [
         },
         {
             summary: 'Homework 10',
-            data: '<a class="link text-decoration-none"><button class="btn btn-danger">HomeWork 10</button></a>'
+            data: '<a class="link text-decoration-none" href="./homework10.html" target="_blank"><button class="btn btn-danger">HomeWork 10</button></a>'
         }
     ],
 ]
