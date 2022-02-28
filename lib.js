@@ -245,22 +245,22 @@ var data = [
     [
         {
             summary: 'VS code da oson kod yozish',
-            data: '<br>'
+            data: 'classlarni va teglarni tez yozish!'
         },
         {
             summary: 'Shop Card Yaratish',
-            data: '<br>'
+            data: 'Sotuv cartasi yaratish'
         },
         {
             summary: '<sub>sub</sub> va <sup>sup</sup>',
-            data: ''
+            data: '<p>sup - Teg yuqori parametrli matnni belgilaydi. Superscript matni odatdagi satr ustida yarim belgi paydo bo\'ladi va ba\'zida kichikroq shriftda ko\'rsatiladi. Superscript matni kabi izohlar uchun ishlatilishi mumkin</p><p>sub - Teg pastki matnni belgilaydi. Pastki matn oddiy satr ostida yarim belgi paydo bo\'ladi va ba\'zida kichikroq shriftda ko\'rsatiladi. Pastki matn kimyoviy formulalar uchun ishlatilishi mumkin H2O.</p>'
         },
         {
             summary: 'calc()',
-            data: ''
+            data: 'calculator css da calc(qiymat operator qiymat) korinishida yoziladi!'
         },
         {
-            summary: 'class validation va child',
+            summary: 'children',
             data: '<p>Child</p><ul><li>:first-child</li><li>last-child</li><li>nth:child</li><li>odd</li><li>even</li></ul>'
         },
         {
