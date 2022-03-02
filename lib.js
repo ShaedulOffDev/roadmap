@@ -268,4 +268,10 @@ var data = [
             data: '<a class="link text-decoration-none" href="./homework10.html" target="_blank"><button class="btn btn-danger">HomeWork 10</button></a>'
         }
     ],
+    [
+        {
+            summary: 'Gradients',
+            data: '<a href="https://cssgradient.io" target="_blank" class="text-dark bg-primary p-3">cssgradient.io</a>'
+        },
+    ]
 ]
