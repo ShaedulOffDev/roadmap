@@ -274,4 +274,14 @@ var data = [
             data: '<a href="https://cssgradient.io" target="_blank" class="text-light fw-bold bg-primary p-3 m-3 text-deccoration-none link">cssgradient.io</a>'
         },
     ]
+    [
+        {
+            summary: 'Backgrounds',
+            data: '<p>background-image</p><p>background-position</p><p>background-size</p><p>background-repeat</p>'
+        },
+        {
+            summary: 'Homework 12',
+            data: '<a href="./homework9.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>';
+        }
+    ]
 ]
