@@ -277,12 +277,12 @@ var data = [
     [
         {
             summary: 'Backgrounds',
-            data: '<p>background-image</p><p>background-position</p><p>background-size</p><p>background-repeat</p>'
+            data: 'background-image<br>background-position<br>background-size<br>background-repeat'
         },
         {
             summary: 'Homework 12',
             data: '<a href="./homework12.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>'
-        }
+        },
     ],
     [
         {
@@ -300,6 +300,6 @@ var data = [
         {
             summary: '',
             data: '<a href="./homework13.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>'
-        }
-    ]
+        },
+    ],
 ]
