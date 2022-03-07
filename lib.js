@@ -281,7 +281,25 @@ var data = [
         },
         {
             summary: 'Homework 12',
-            data: '<a href="./homework9.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>';
+            data: '<a href="./homework12.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>'
+        }
+    ],
+    [
+        {
+            summary: 'Orqa fonga bir nechta rasm qo\'yish',
+            data: 'background-image',
+        },
+        {
+            summary: 'Flex box',
+            data: 'display: flex; <br> justify-content: center | space-beetwen | space-around | space-evenly <br> align-items: center | stretch | flex-end | flex-start | start | end <br> flex-direction: column | column-reverse | row | row-reverse ',
+        },
+        {
+            summary: 'image size',
+            data: 'max-width <br> min-width',
+        },
+        {
+            summary: '',
+            data: '<a href="./homework13.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>'
         }
     ]
 ]
