@@ -271,7 +271,7 @@ var data = [
     [
         {
             summary: 'Gradients',
-            data: '<a href="https://cssgradient.io" target="_blank" class="text-light fw-bold bg-primary p-3 m-3 text-deccoration-none link">cssgradient.io</a>'
+            data: '<a href="https://cssgradient.io" target="_blank">cssgradient.io</a>'
         },
     ],
     [
@@ -281,7 +281,7 @@ var data = [
         },
         {
             summary: 'Homework 12',
-            data: '<a href="./homework12.html" target="_blank"><button class="btn btn-crimson text-light">Home Work</button></a>'
+            data: '<a href="./homework12.html" target="_blank"><button class="btn btn-primary text-light">Home Work</button></a>'
         },
     ],
     [
